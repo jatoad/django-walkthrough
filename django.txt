@@ -1,5 +1,7 @@
 django-admin startproject project_name .
  - starting a project in django and creating basic files 
+django-admin startapp appname
+ - starting a project in django and creating basic files
 
 python3 manage.py runserver
  - runs project in designated port outlined in allowed hostss
